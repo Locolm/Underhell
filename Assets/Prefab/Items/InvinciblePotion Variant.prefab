@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2234478729893372438
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4040457359609890955, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376803392986830308, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376803392986830308, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376803392986830309, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376803392986830309, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -15.89642
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376803392986830309, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.8606577
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376803392986830309, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376803392986830309, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376803392986830309, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376803392986830309, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376803392986830309, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376803392986830309, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376803392986830309, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376803392986830309, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376803392986830310, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 216102615, guid: 4a325e9baa8906e4abcbc9b9797ead58, type: 3}
+    - target: {fileID: 7376803392986830311, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 11400000, guid: ff97d818a3445ae48b7c0bb480d36bbe, type: 2}
+    - target: {fileID: 7376803392986830311, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: SoundPick
+      value: 
+      objectReference: {fileID: 7485032839945063177}
+    - target: {fileID: 7376803392986830328, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+      propertyPath: m_Name
+      value: InvinciblePotion
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+--- !u!82 &7485032839945063177 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 8710624843969259807, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+  m_PrefabInstance: {fileID: 2234478729893372438}
+  m_PrefabAsset: {fileID: 0}

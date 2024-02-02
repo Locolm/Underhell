@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e06aa9f8145b2d4693a3d644dce6dce, type: 3}
+  m_Name: HealthPotion
+  m_EditorClassIdentifier: 
+  id: 1
+  name: "\xC9carlisse"
+  price: 50
+  description: "Dans une fiole en verre d\xE9licate repose une concoction \xE9carlate,
+    d\xE9bordante de vitalit\xE9. Ce liquide rouge, d'une nature myst\xE9rieuse,
+    est un \xE9lixir revitalisant d'exception. Tel du sang purifi\xE9, il d\xE9tient
+    le pouvoir de gu\xE9rir les blessures les plus profondes. Lorsque vous en buvez,
+    ses propri\xE9t\xE9s curatives p\xE9n\xE8trent en vous, r\xE9parant les maux
+    inflig\xE9s \xE0 votre corps, ravivant votre \xE9nergie et vous laissant revigor\xE9
+    et resplendissant."
+  image: {fileID: 302057770, guid: 4a325e9baa8906e4abcbc9b9797ead58, type: 3}
+  hpGiven: 20
+  speedGiven: 0
+  speedDuration: 0
+  maxInventory: 10

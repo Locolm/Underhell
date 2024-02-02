@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09869de60a0d73048b45efb606ed0af4, type: 3}
+  m_Name: Golden
+  m_EditorClassIdentifier: 
+  id: 15
+  name: Masque d'or
+  image: {fileID: -2131288221, guid: 8657bbd67a902ef468a573416e815914, type: 3}
+  price: 0
+  desc: "Ce masque d'or \xE9tait autrefois un troph\xE9e prestigieux, acquis par
+    le ma\xEEtre artisan des masques pour son travail exceptionnel. Fabriqu\xE9 avec
+    un pr\xE9cieux m\xE9tal dor\xE9, il \xE9tait \xE0 l'origine une \u0153uvre statique,
+    destin\xE9e \xE0 \xEAtre expos\xE9e plut\xF4t qu'\xE0 \xEAtre port\xE9e."
+  capawater: 0
+  capacold: 0
+  res: 15
+  degbrut: 2
+  degpourcent: 0
+  tpsglace: 0
+  rayonExplo: 0
+  largeurslash: 0
+  degstones: 0
+  regainitems: 0
+  canuseitem: 1
+  canusemana: 1
+  dashstatus: 1
+  cooldowndash: -1
+  cooldownspell: 0
+  healeffect: 0
+  speedeffect: 0
+  manaeffect: -15
+  manause: 0
+  speed: 0
+  jumphigh: 0
+  canseehp: 0
+  canseestats: 1
+  tpsinv: 1
+  positifs:
+  - "Augmentation des d\xE9g\xE2ts inflig\xE9s +2 d\xE9g\xE2ts"
+  - "R\xE9duction du cooldown du dash"
+  - "Augmentation de la r\xE9sistance des d\xE9g\xE2ts subits"
+  negatifs:
+  - "Diminution de l'\xE9fficacit\xE9 des potions de vitesses"
+  - "Diminution du temps d'invincibilit\xE9 apr\xE8s avoir re\xE7u un coup"
+  - "Diminution de l'\xE9fficacit\xE9 des potions de mana"

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09869de60a0d73048b45efb606ed0af4, type: 3}
+  m_Name: Citrouille
+  m_EditorClassIdentifier: 
+  id: 7
+  name: Une citrouille
+  image: {fileID: -1518530747, guid: 8657bbd67a902ef468a573416e815914, type: 3}
+  price: 0
+  desc: "Une humble citrouille sculpt\xE9e par des enfants, destin\xE9e \xE0 devenir
+    la t\xEAte souriante de leur \xE9pouvantail."
+  capawater: 0
+  capacold: 0
+  res: 0
+  degbrut: 0
+  degpourcent: 0
+  tpsglace: 0
+  rayonExplo: 0
+  largeurslash: 0
+  degstones: 0
+  regainitems: 0
+  canuseitem: 1
+  canusemana: 1
+  dashstatus: 1
+  cooldowndash: 0
+  cooldownspell: 0
+  healeffect: 0
+  speedeffect: 0
+  manaeffect: -10
+  manause: 20
+  speed: 0
+  jumphigh: 0
+  canseehp: 0
+  canseestats: 1
+  tpsinv: 0
+  positifs:
+  - Augmentation du mana
+  negatifs:
+  - "Diminution de l'efficacit\xE9 des potions de mana"

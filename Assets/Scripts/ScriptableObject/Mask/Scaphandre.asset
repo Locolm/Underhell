@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09869de60a0d73048b45efb606ed0af4, type: 3}
+  m_Name: Scaphandre
+  m_EditorClassIdentifier: 
+  id: 1
+  name: Le scaphandre
+  image: {fileID: -904790053, guid: 8657bbd67a902ef468a573416e815914, type: 3}
+  price: 0
+  desc: "Autrefois, le Masque Scaphandre servait \xE0 plonger dans les abysses insondables
+    du lac d'Underhell. Cependant, \xE9tant donn\xE9 que personne n'est jamais revenu
+    de ces t\xE9n\xE8bres imp\xE9n\xE9trables, une crainte profonde s'est empar\xE9e
+    des gens. Par cons\xE9quent, la fabrication et l'utilisation de ces masques ont
+    compl\xE8tement cess\xE9."
+  capawater: 50
+  capacold: 0
+  res: 15
+  degbrut: 0
+  degpourcent: 0
+  tpsglace: 0
+  rayonExplo: 0
+  largeurslash: 0
+  degstones: 0
+  regainitems: 0
+  canuseitem: 1
+  canusemana: 1
+  dashstatus: 0
+  cooldowndash: 0
+  cooldownspell: 0
+  healeffect: 0
+  speedeffect: 0
+  manaeffect: 0
+  manause: 0
+  speed: 0
+  jumphigh: 0
+  canseehp: 0
+  canseestats: 1
+  tpsinv: 0
+  positifs:
+  - Permet de rester plus longtemps sous l'eau
+  - "R\xE9duction des d\xE9g\xE2ts subits"
+  negatifs:
+  - "Impossibilit\xE9 de dash"

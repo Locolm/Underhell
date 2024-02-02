@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09869de60a0d73048b45efb606ed0af4, type: 3}
+  m_Name: Wood
+  m_EditorClassIdentifier: 
+  id: 14
+  name: Tronc d'arbre
+  image: {fileID: -1575387756, guid: 8657bbd67a902ef468a573416e815914, type: 3}
+  price: 0
+  desc: "Ce masque unique est taill\xE9 \xE0 partir d'un tronc d'arbre, sculpt\xE9
+    avec une habilet\xE9 artistique qui lui conf\xE8re une apparence \xE0 la fois
+    brute et d\xE9taill\xE9e. Mais ce qui le rend vraiment exceptionnel, c'est qu'il
+    est gorg\xE9 d'\xE2mes. Ces \xE2mes, emprisonn\xE9es dans le bois, donnent au
+    masque une aura mystique, lui conf\xE9rant un pouvoir et une pr\xE9sence ind\xE9niables.
+    Ce tronc d'arbre sculpt\xE9 et satur\xE9 d'\xE2mes est bien plus qu'une simple
+    pi\xE8ce d'art, c'est un artefact puissant, un lien entre le monde des vivants
+    et celui des esprits."
+  capawater: 0
+  capacold: 0
+  res: 5
+  degbrut: 0
+  degpourcent: 0
+  tpsglace: 0
+  rayonExplo: 0
+  largeurslash: 0
+  degstones: 0
+  regainitems: 0
+  canuseitem: 1
+  canusemana: 1
+  dashstatus: 1
+  cooldowndash: 1
+  cooldownspell: 0
+  healeffect: 0
+  speedeffect: 0
+  manaeffect: 0
+  manause: 20
+  speed: 0
+  jumphigh: 0
+  canseehp: 0
+  canseestats: 1
+  tpsinv: 0
+  positifs:
+  - Augmentation du mana
+  - "Augmentation de la r\xE9sistance des d\xE9g\xE2ts subits"
+  negatifs:
+  - Augmentation du cooldown du dash

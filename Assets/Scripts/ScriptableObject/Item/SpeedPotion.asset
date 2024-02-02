@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e06aa9f8145b2d4693a3d644dce6dce, type: 3}
+  m_Name: SpeedPotion
+  m_EditorClassIdentifier: 
+  id: 2
+  name: Verzephyr
+  price: 20
+  description: "\xC0 l'int\xE9rieur d'une fiole en verre \xE9meraude, une merveilleuse
+    concoction \xE9th\xE9r\xE9e attend d'\xEAtre lib\xE9r\xE9e. Son liquide vert,
+    vibrant et chatoyant, renferme un pouvoir extraordinaire. Tel un vent imp\xE9tueux,
+    cette potion acc\xE9l\xE9ratrice \xE9veille les sens et d\xE9cuple la vitesse.
+    Lorsque vous en consommez, son \xE9nergie dynamique fuse \xE0 travers vos veines,
+    stimulant votre agilit\xE9 et propulsant votre corps avec une rapidit\xE9 saisissante.
+    Vous vous sentirez comme une force de la nature, capable de d\xE9passer les limites
+    de l'espace et du temps."
+  image: {fileID: -1231696813, guid: 4a325e9baa8906e4abcbc9b9797ead58, type: 3}
+  hpGiven: 0
+  speedGiven: 100
+  speedDuration: 5
+  maxInventory: 10

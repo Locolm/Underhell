@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09869de60a0d73048b45efb606ed0af4, type: 3}
+  m_Name: Ancester
+  m_EditorClassIdentifier: 
+  id: 13
+  name: "Anc\xEAtre"
+  image: {fileID: 1997229633, guid: 8657bbd67a902ef468a573416e815914, type: 3}
+  price: 0
+  desc: "Ce masque antique en ossement est une pi\xE8ce remarquable qui semble provenir
+    d'une cr\xE9ature oubli\xE9e depuis longtemps. Chacun de ses d\xE9tails est sculpt\xE9
+    avec une pr\xE9cision exceptionnelle, des cr\xEAtes osseuses aux marques du temps
+    qui lui donnent une aura de myst\xE8re."
+  capawater: 0
+  capacold: 0
+  res: -100
+  degbrut: 0
+  degpourcent: 0
+  tpsglace: 0
+  rayonExplo: 0
+  largeurslash: 0
+  degstones: 0
+  regainitems: 0
+  canuseitem: 1
+  canusemana: 1
+  dashstatus: 2
+  cooldowndash: -1
+  cooldownspell: 0
+  healeffect: 0
+  speedeffect: 0
+  manaeffect: 0
+  manause: 0
+  speed: 0
+  jumphigh: 0
+  canseehp: 0
+  canseestats: 1
+  tpsinv: 2
+  positifs:
+  - "Augmentation des d\xE9g\xE2ts subits de 100%"
+  - "Permet l'invincibilit\xE9 pendant le dash"
+  - "R\xE9duction du cooldown du dash"
+  negatifs:
+  - "Augmentation des d\xE9g\xE2ts subits de 100%"

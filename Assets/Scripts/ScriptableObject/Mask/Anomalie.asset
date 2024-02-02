@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09869de60a0d73048b45efb606ed0af4, type: 3}
+  m_Name: Anomalie
+  m_EditorClassIdentifier: 
+  id: 10
+  name: L'Anomalie
+  image: {fileID: 750431610, guid: 8657bbd67a902ef468a573416e815914, type: 3}
+  price: 0
+  desc: "Ce masque \xE9voque l'id\xE9e d'une r\xE9alit\xE9 fragment\xE9e, o\xF9 les
+    lois de la physique sont remises en question. Il cr\xE9e une atmosph\xE8re \xE9trange
+    et d\xE9rangeante, rappelant un bug informatique dans un monde virtuel. En le
+    portant, on a l'impression d'entrer dans une dimension o\xF9 les r\xE8gles habituelles
+    ne s'appliquent plus, o\xF9 l'ordre est remplac\xE9 par le chaos."
+  capawater: 0
+  capacold: 0
+  res: 0
+  degbrut: 0
+  degpourcent: 0
+  tpsglace: 0
+  rayonExplo: 0
+  largeurslash: 0
+  degstones: 0
+  regainitems: 0
+  canuseitem: 1
+  canusemana: 1
+  dashstatus: 1
+  cooldowndash: 0
+  cooldownspell: 0
+  healeffect: 0
+  speedeffect: 0
+  manaeffect: 0
+  manause: 0
+  speed: 0
+  jumphigh: 0
+  canseehp: 0
+  canseestats: 1
+  tpsinv: 0
+  positifs:
+  - "al\xE9atoire parmis les suivants :"
+  - "Augmentation al\xE9atoire des d\xE9g\xE2ts inflig\xE9s"
+  - "Augmentation al\xE9atoire de la vitesse de d\xE9placement"
+  - "Augmentation al\xE9atoire de la r\xE9sistance aux d\xE9g\xE2ts re\xE7us"
+  - "Augmentation al\xE9atoire (max x2) de la quantit\xE9 de mana"
+  negatifs:
+  - "al\xE9atoire parmis les suivants :"
+  - "Impossibilit\xE9 de dash"
+  - "Diminution du temps d'invincibilit\xE9 apr\xE8s avoir re\xE7u un coup"
+  - "Diminution de l'\xE9fficacit\xE9 des potions de soins et de vitesse"
+  - "Vos statistiques (barre de vie et de mana) seront masqu\xE9e en jeu"

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09869de60a0d73048b45efb606ed0af4, type: 3}
+  m_Name: RatMan
+  m_EditorClassIdentifier: 
+  id: 4
+  name: Le masque de rat
+  image: {fileID: -1888887437, guid: 8657bbd67a902ef468a573416e815914, type: 3}
+  price: 0
+  desc: "Ce masque en forme de rat semble tout droit sorti des abysses de la folie.
+    Fa\xE7onn\xE9 \xE0 partir de la t\xEAte arrach\xE9e d'une cr\xE9ature autrefois
+    vivante, il \xE9voque un sentiment de d\xE9go\xFBt et de malaise. Qui aurait
+    l'id\xE9e tordue de porter une telle relique r\xE9pugnante sur son visage ? Chaque
+    d\xE9tail macabre, chaque tordure dans l'expression de ce masque, raconte une
+    histoire troublante d'un individu troubl\xE9 par l'obsession morbide. Son porteur
+    doit \xEAtre quelqu'un dont la propre d\xE9mence se refl\xE8te dans ce choix
+    sinistre, faisant de ce masque un symbole d'horreur et de perplexit\xE9."
+  capawater: 0
+  capacold: 0
+  res: 0
+  degbrut: 0
+  degpourcent: 0
+  tpsglace: 0
+  rayonExplo: 0
+  largeurslash: 0
+  degstones: 0
+  regainitems: 0
+  canuseitem: 1
+  canusemana: 1
+  dashstatus: 2
+  cooldowndash: 0
+  cooldownspell: 0
+  healeffect: 0
+  speedeffect: 0
+  manaeffect: 0
+  manause: 0
+  speed: 70
+  jumphigh: 0
+  canseehp: 0
+  canseestats: 1
+  tpsinv: 0
+  positifs:
+  - "Permet l'invincibilit\xE9 pendant le dash"
+  - "L\xE8g\xE8re augmentation de la vitesse de d\xE9placement"
+  negatifs:
+  - "Les coups subits infligent un peu plus de d\xE9g\xE2ts"

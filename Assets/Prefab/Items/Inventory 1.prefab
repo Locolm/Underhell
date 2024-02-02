@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5918848045268118610
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5918848045268118620}
+  - component: {fileID: 5918848045268118621}
+  m_Layer: 0
+  m_Name: Inventory 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5918848045268118620
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5918848045268118610}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.7788696, y: 3.2381592, z: 0.60787153}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5918848045268118621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5918848045268118610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b94984c468ae7f34584533c6e6310d85, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  allItemsPrefab:
+  - {fileID: 7376803392986830328, guid: 78bb0569eab223d48ad476b0052f9796, type: 3}
+  - {fileID: 8560825834589485786, guid: 8270c246a72042443897672063bf32d7, type: 3}
+  - {fileID: 8745389090495903726, guid: 5c798715860147a4abed271310ab0d33, type: 3}
+  AllMasksStats:
+  - {fileID: 11400000, guid: cb4755e6f3f585e4c9cb4f7310649ccd, type: 2}
+  - {fileID: 11400000, guid: 255a20a4571d8a342b03f7cc09b65eb7, type: 2}
+  - {fileID: 11400000, guid: d518e8cc42bccd9449e2e199aea7cf6b, type: 2}
+  - {fileID: 11400000, guid: 9d4e567a94b14274bb3cfec971e8273b, type: 2}
+  - {fileID: 11400000, guid: 9a6b3721e4dbfbf48a8eab658471c28e, type: 2}
+  - {fileID: 11400000, guid: c39ae63863e345c43a56739e4fd2b21a, type: 2}
+  - {fileID: 11400000, guid: a9b479069fa71d1419af9458e6110b07, type: 2}
+  - {fileID: 11400000, guid: 4b1be1a4efe083e4fb78755baf6ba7c8, type: 2}
+  - {fileID: 11400000, guid: 0c5ad641e0deebb4c99cdf23adbe59a9, type: 2}
+  - {fileID: 11400000, guid: 4f8aa258f25d98b4aab3958fa38c09a2, type: 2}
+  - {fileID: 11400000, guid: 986edd9b8075f3447bcec488c2a51b4a, type: 2}
+  - {fileID: 11400000, guid: 0dcccebe14494bd4686fe8c556e1894f, type: 2}
+  - {fileID: 11400000, guid: 87bee93aadb93e24894f20d621e25f83, type: 2}
+  - {fileID: 11400000, guid: cc2fceef8f8a1a74aad16b0a6e37e474, type: 2}
+  - {fileID: 11400000, guid: 196010efb1e324f458c04b24a8d08fae, type: 2}
+  - {fileID: 11400000, guid: f69a954906c88ed46a44b832bd285ead, type: 2}
+  nbrObjMax: 10
+  coinsCount: 0
+  coinsCountText: {fileID: 0}
+  contentCurrentIndex: 0
+  itemUIImage: {fileID: 0}
+  itemNameUI: {fileID: 0}
+  itemNomber: {fileID: 0}
+  emptyItemImage: {fileID: 542955157, guid: 0e17022a8742f34429d012bde14bc540, type: 3}
+  playerEffects: {fileID: 0}
+  Resources: []
+  QuestProgression: 
+  BossPrincipaux: 
+  colorList: 
+  colorIn: 0
+  maskList: 
